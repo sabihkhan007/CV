@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Sabih's Personal Site</title>
+</head>
+
+<body>
+  <img src="sabih.jpg" alt="Sabih Ahmed Khan">
+  <h1>Sabih Ahmed Khan</h1>
+  <p><em><strong>Data Scientist and <a href="https://www.appbrewery.co/">Web Developer</a> </strong></em></p>
+  <p>I am a Data scientist and Web developer by Passion. In addition to this, i am also a Biotechnologist and medical informatician</p>
+  <hr>
+  <h3>Educations and Qualifications</h3>
+  <ul>
+    <li>Masters in Medical Informatics from THD European Campus</li>
+    <li>Bachelors in Biotechnology from University of Karachi</li>
+    <li>Higher Education from Aga khan Higher secondary School</li>
+    <li>Matriculation from The City School</li>
+  </ul>
+  <h3>My Experiences</h3>
+  <ol>
+    <li>Research and development officer at Macter International Limitied</li>
+    <li>Bioinformatician at Technische Hochschule deggendorf</li>
+  </ol>
+</body>
+
+</html>
